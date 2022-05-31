@@ -1,6 +1,6 @@
 # terminal-web-browser
 
-This project was made to emulate a web browser in a terminal. Its extreamly
+This project was made to emulate a web browser in a terminal. Its extremely
 barebones as of yet and still has many more features planned for it. As of yet
 it works partially for reading webpage content and displaying it in a sort of
 markdown fashion.
