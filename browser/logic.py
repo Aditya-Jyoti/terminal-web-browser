@@ -68,5 +68,3 @@ def clear_screen():
         print("THE TERMINAL WAS CLEARED HERE")
         print("\n"*10)
         _ = system("clear")
-
-

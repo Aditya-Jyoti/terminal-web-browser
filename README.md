@@ -42,6 +42,5 @@ input is not being asked**
 #### After Thoughts:
 
 I would appreciate your feedback on this project and would like if you could
-open issues suggesting how to fix the known issues, as well as contricbuting to
+open issues suggesting how to fix the known issues, as well as contributing to
 the project to make this even better
-
